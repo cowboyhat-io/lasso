@@ -1,4 +1,4 @@
-# lasso (Access Control Reporting Tool)
+# lasso 
 
 A Golang/GO based CLI tools for helping Toul with compliance activities.
 
@@ -8,9 +8,9 @@ In order to use lasso it is necessary to create a `lasso.env` file like so:
 ```dotenv
 PROJECT= ado-project-name # 
 COMMENTER='DeGuia-Cranmer, Toul' # Used for TecdunderMifflinulse Movers and Leavers command
-ORG_URL=https://dunderMifflinswapps.visualstudio.com # Used for TecdunderMifflinulse Movers and Leavers command
+ORG_URL=https://dunderMifflinswapps.visualstudio.com 
 PERSONAL_ACCESS_TOKEN=<your-ado-personal-access-token>
-COMMENT='User has been removed from AD.' # Used for TecdunderMifflinulse Movers and Leavers command
+COMMENT='User has been removed from AD.' 
 ```
 
 ### Additional resources
