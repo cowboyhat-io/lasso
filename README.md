@@ -1,6 +1,5 @@
 # lasso 
 
-A Golang/GO based CLI tools for helping Toul with compliance activities.
 
 ## Set Up
 
